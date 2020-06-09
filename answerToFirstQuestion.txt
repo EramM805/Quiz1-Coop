@@ -1,0 +1,5 @@
+My favorite editor is Visual Studio Code because of the following reasons:
+
+1) There is support for multiple languages: I do not have to worry about using specific editors or multiple editors for different languages. I work on different projects, each having their own tech stack, and because of this support provided by VS code it makes my work a bit easier as I only have to use one editor.
+2) Terminal: VS code provides a  terminal within the editor that helps when I am programming. Because it is on the same screen as my code it helps me when debugging. This has decreased the time it takes for me to test and debug code, which allows me to allocate time when designing and improving quality of the code.
+3) Open Source Third Party Extensions: There are third-party extensions that solve various problems that programmers have. For example, one extension called 'js-beautify' that I used which helps formatting my code so it looks readable. During my previous internship, we had what we called 'beauty code standards' and I just added those standards to the 'js-beautify' settings. This saved me time when it came to polishing code before committing it to github.
